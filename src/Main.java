@@ -8,7 +8,7 @@
 public class Main {
 
     /**
-     * topla metodu iki sayıyı toplar ve sonucu döndürür
+     * topla metodu iki sayıyı toplar ve sonucu döndürür.
      * @param sayi1
      * @param sayi2
      * @return
