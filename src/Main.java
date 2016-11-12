@@ -8,17 +8,19 @@
 public class Main {
 
     /**
-     * topla metodu iki sayıyı toplar ve sonucu döndürür.
-     * @param sayi1
-     * @param sayi2
-     * @return
+     * Topla metodu iki sayıyı toplar ve sonucu döndürür.
+     * @param sayi1 toplama işlemi için ilk sayı
+     * @param sayi2 toplama işlemi için ikinci sayı
+     * @return sonuc integer veri tipinde döndürür
      */
     public int topla(int sayi1, int sayi2){
-        int sonuc=sayi1+sayi2
+        int sonuc=sayi1+sayi2;
         return sonuc;
     }
 
     public static void main(String[] args) {
         System.out.println("Javadoc Example by Burak KUTBAY");
+
+
     }
 }
